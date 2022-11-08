@@ -1,0 +1,34 @@
+<DOCTYPE html>
+<html lang="pt-br">
+     <head>
+        <meta charset="UTF-8">
+        <title>Final da Champions de 2009</title>
+<link rel="stylesheet"       href="style.css"
+
+     </head>
+       <body>
+         <h1>FINAL DA CHAMPIONS DE 2009 </h1>
+
+        <p style="font-size: 20px"> A final foi disputada no Estádio Olímpico, em Roma, na Itália, no dia 27 de maio de 2009. As duas equipes eram recheadas de craques, nesse jogo tinham nomes como: Xavi, Iniesta, Messi, Cristiano Ronaldo. Esta partida teve um publico de 62.467 pessoas, foi a oitava vez que a final se realiza em Itália e a quarta vez que se realizada no Estadio Olimpico. O Barcelona ganhou do Manchester United pelo placar de 2 X 0 com gols de Samuel Eto’o e com um <strong>gol histórico</strong> de Lionel Messi. A equipe espanhola levou a inédita tríplice coroa.</p>
+
+           <p style="font-size: 20px; text-align: center">O Manchester United começou dominando o jogo mas após uma bela jogada pela direita, Samuel Eto’o abriu o placar. Depois disso, o jogo mudou completamente, a equipe espanhola passou a dominar o jogo com o famoso 'tiki taka do Guardiola'. Aos 25 minutos do segundo tempo, xavi (eleito melhor da partida), cruzou dentro da áreapara Messi ampliar a vantagem, esse gol é histórico pois o craque argentino saiu beijando sua chuteira na comemoração e rendeu um dos momentos mais épicos da história do futebol.</p>
+
+
+
+            <h1>ESCALAÇÕES</h1>
+             <ul>
+                       <li>Goleiro Victor Valdés
+                         <li>Lateral Direito Carles Puyol
+                            <li>Zagueiro Yaya Touré
+                              <li>Zagueiro Gerard Piqué
+                                <li>Lateral Esquerdo Sylvinho
+                                  <li>Volante Sergio Busquets
+                                    <li>Meio Campo Xavi
+                                      <li>Meio Campo Iniesta
+                                       <li>Ponta Direita Lionel Messi
+                                          <li>Ponta Esquerda Thierry Henry
+                                            <li>Centro-Avante Samuel Eto'o</ul>
+
+                    <img src="escalações.png" alt="">
+     </body>
+  </html>
