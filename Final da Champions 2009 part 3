@@ -1,0 +1,51 @@
+<DOCTYPE html>
+<html lang="pt-br">
+     <head>
+        <meta charset="UTF-8">
+        <title>Final da Champions de 2009</title>
+<link rel="stylesheet"       href="style.css"
+
+     </head>
+       <body>
+         <header>
+           <h1> FINAL DA CHAMPIONS </h1>
+         </header>
+
+         <h2 class="titulo-central">FINAL DA CHAMPIONS DE 2009 </h2>
+
+<div class="principal">
+
+<img src= "taça.jpg">
+
+
+        <p style="font-size: 20px"> A final foi disputada no Estádio Olímpico, em Roma, na Itália, no dia 27 de maio de 2009. As duas equipes eram recheadas de craques, nesse jogo tinham nomes como: Xavi, Iniesta, Messi, Cristiano Ronaldo. Esta partida teve um publico de 62.467 pessoas, foi a oitava vez que a final se realiza em Itália e a quarta vez que se realizada no Estadio Olimpico. O Barcelona ganhou do Manchester United pelo placar de 2 X 0 com gols de Samuel Eto’o e com um <strong>gol histórico</strong> de Lionel Messi. A equipe espanhola levou a inédita tríplice coroa.</p>
+
+<img src= "escalacoes.jpg">
+
+
+           <p style="font-size: 20px; text-align: center">O Manchester United começou dominando o jogo mas após uma bela jogada pela direita, Samuel Eto’o abriu o placar. Depois disso, o jogo mudou completamente, a equipe espanhola passou a dominar o jogo com o famoso 'tiki taka do Guardiola'. Aos 25 minutos do segundo tempo, xavi (eleito melhor da partida), cruzou dentro da área para Messi ampliar a vantagem, esse gol é histórico pois o craque argentino saiu beijando sua chuteira na comemoração e rendeu um dos momentos mais épicos da história do futebol.</p>
+
+<img src="messi.jpg">
+
+</div>
+
+<div class="escalações">
+            <h3 class="titulo-central">ESCALAÇÕES</h3>
+ <ol>
+                       <li class= "itens">Goleiro Victor Valdés</li>
+                       <li class= "itens">Lateral Direito Carles Puyol</li>
+                       <li class= "itens">Zagueiro Yaya Touré</li>
+                       <li class= "itens">Zagueiro Gerard Piqué</li>
+                       <li class= "itens">Lateral Esquerdo Sylvinho</li>
+                       <li class= "itens">Volante Sergio Busquets</li>
+                       <li class= "itens">Meio Campo Xavi</li>
+                       <li class= "itens">Meio Campo Iniesta</li>
+                       <li class= "itens">Ponta Direita Lionel Messi</li>
+                       <li class= "itens">Ponta Esquerda Thierry Henry</li>
+                       <li class= "itens">Centro-Avante Samuel Eto'o</li>
+  </ol>
+
+</div>
+                    <img src="escalações.png" alt="">
+     </body>
+  </html>
